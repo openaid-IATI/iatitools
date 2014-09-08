@@ -35,6 +35,7 @@ Comoros,233,KM,COM,289,"South of Sahara, regional",Country
 "Congo, Dem. Rep.",235,CG,COD,289,"South of Sahara, regional",Country
 "Congo, Rep.",234,CG,COG,289,"South of Sahara, regional",Country
 Cook  Islands,831,CK,COK,889,"Oceania, regional",Country
+Aland Islands,,AX,ALA,,,Country
 Costa Rica,336,CR,CRI,389,"North & Central America, regional",Country
 C,247,CI,CIV,289,"South of Sahara, regional",Country
 Croatia,62,HR,HRV,89,"Europe, regional",Country
@@ -46,7 +47,7 @@ Dominican Republic,340,DO,DOM,389,"North & Central America, regional",Country
 Ecuador,440,EC,ECU,489,"South America, regional",Country
 Egypt,142,EG,EGY,189,"North of Sahara, regional",Country
 El Salvador,342,SV,SLV,389,"North & Central America, regional",Country
-Equatorial Guinea ,245,GQ,GNQ,289,"South of Sahara, regional",Country
+Equatorial Guinea,245,GQ,GNQ,289,"South of Sahara, regional",Country
 Eritrea,271,ER,ERI,289,"South of Sahara, regional",Country
 Ethiopia,238,ET,ETH,289,"South of Sahara, regional",Country
 "Europe, regional/multi-country",89,,QSA,89,"Europe, regional",Region
@@ -63,14 +64,14 @@ Guinea-Bissau,244,GW,GNB,289,"South of Sahara, regional",Country
 Guyana,446,GY,GUY,489,"South America, regional",Country
 Haiti,349,HT,HTI,389,"North & Central America, regional",Country
 Honduras,351,HN,HND,389,"North & Central America, regional",Country
-India ,645,IN,IND,689,"South & Central Asia, regional",Country
+India,645,IN,IND,689,"South & Central Asia, regional",Country
 Indonesia,738,ID,IDN,789,"Far East Asia, regional",Country
 Iran,540,IR,IRN,589,"Middle East, regional",Country
 Iraq,543,IQ,IRQ,589,"Middle East, regional",Country
 Jamaica,354,JM,JAM,389,"North & Central America, regional",Country
 Jordan,549,JO,JOR,589,"Middle East, regional",Country
 Kazakhstan,613,KZ,KAZ,689,"South & Central Asia, regional",Country
-Kenya ,248,KE,KEN,289,"South of Sahara, regional",Country
+Kenya,248,KE,KEN,289,"South of Sahara, regional",Country
 Kiribati,836,KI,KIR,889,"Oceania, regional",Country
 "Korea, Dem.",740,KP,PRK,789,"Far East Asia, regional",Country
 Kosovo,57,,,89,"Europe, regional",Country
@@ -152,7 +153,7 @@ Tokelau,868,TK,TKL,889,"Oceania, regional",Country
 Tonga,870,TO,TON,889,"Oceania, regional",Country
 Trinidad & Tobago,375,TT,TTO,389,"North & Central America, regional",Country
 Tunisia,139,TN,TUN,189,"North of Sahara, regional",Country
-Turkey  ,55,TR,TUR,89,"Europe, regional",Country
+Turkey,55,TR,TUR,89,"Europe, regional",Country
 Turkmenistan,616,TM,TKM,689,"South & Central Asia, regional",Country
 Tuvalu,872,TV,TUV,889,"Oceania, regional",Country
 Uganda,285,UG,UGA,289,"South of Sahara, regional",Country
@@ -167,3 +168,107 @@ Wallis & Futuna,876,WF,WLF,889,"Oceania, regional",Country
 Yemen,580,YE,YEM,589,"Middle East, regional",Country
 Zambia,288,ZM,ZMB,289,"South of Sahara, regional",Country
 Zimbabwe,265,ZW,ZWE,289,"South of Sahara, regional",Country
+Andorra,,AD,AND,89,"Europe, regional",Country
+United arab emirates,,AE,ARE,589,"Middle East, regional",Country
+Netherland antilles,,AN,ANT,389,"North & Central America, regional",Country
+Antarctica,,AQ,ATA,998,"Bilateral, unspecified",Country
+Argentina,,AR,ARG,489,"South America, regional",Country
+American samoa,,AS,ASM,889,"Oceania, regional",Country
+Austria,,AT,AUT,89,"Europe, regional",Country
+Australia,,AU,AUS,889,"Oceania, regional",Country
+Aruba,,AW,ABW,389,"North & Central America, regional",Country
+��land islands,,AX,ALA,89,"Europe, regional",Country
+Belgium,,BE,BEL,89,"Europe, regional",Country
+Bulgaria,,BG,BGR,89,"Europe, regional",Country
+Bahrain,,BH,BHR,589,"Middle East, regional",Country
+Benin,,BJ,BEN,289,"South of Sahara, regional",Country
+Saint barth��lemy,,BL,BLM,389,"North & Central America, regional",Country
+Bermuda,,BM,BMU,389,"North & Central America, regional",Country
+Brunei darussalam,,BN,BRN,789,"Far East Asia, regional",Country
+"Bonaire, saint eustatius and saba",,BQ,BES,389,"North & Central America, regional",Country
+Bahamas,,BS,BHS,389,"North & Central America, regional",Country
+Bouvet island,,BV,BVT,998,"Bilateral, unspecified",Country
+Canada,,CA,CAN,389,"North & Central America, regional",Country
+Cocos (keeling) islands,,CC,CCK,889,"Oceania, regional",Country
+"Congo, the democratic republic of the",,CD,COD,289,"South of Sahara, regional",Country
+Switzerland,,CH,CHE,89,"Europe, regional",Country
+Cura��ao,,CW,CUW,389,"North & Central America, regional",Country
+Christmas island,,CX,CXR,889,"Oceania, regional",Country
+Cyprus,,CY,CYP,89,"Europe, regional",Country
+Czech republic,,CZ,CZE,89,"Europe, regional",Country
+Germany,,DE,DEU,89,"Europe, regional",Country
+Denmark,,DK,DNK,89,"Europe, regional",Country
+Estonia,,EE,EST,89,"Europe, regional",Country
+Western sahara,,EH,ESH,189,"North of Sahara, regional",Country
+Spain,,ES,ESP,89,"Europe, regional",Country
+Finland,,FI,FIN,89,"Europe, regional",Country
+Falkland islands (malvinas),,FK,FLK,489,"South America, regional",Country
+Faroe islands,,FO,FRO,89,"Europe, regional",Country
+France,,FR,FRA,89,"Europe, regional",Country
+United kingdom,,GB,GBR,89,"Europe, regional",Country
+French guiana,,GF,GUF,489,"South America, regional",Country
+Guernsey,,GG,GGY,89,"Europe, regional",Country
+Gibraltar,,GI,GIB,89,"Europe, regional",Country
+Greenland,,GL,GRL,389,"North & Central America, regional",Country
+Guadeloupe,,GP,GLP,389,"North & Central America, regional",Country
+Greece,,GR,GRC,89,"Europe, regional",Country
+South georgia and the south sandwich islands,,GS,SGS,489,"South America, regional",Country
+Guam,,GU,GUM,889,"Oceania, regional",Country
+Hong kong,,HK,HKG,789,"Far East Asia, regional",Country
+Heard island and mcdonald islands,,HM,HMD,998,"Bilateral, unspecified",Country
+Hungary,,HU,HUN,89,"Europe, regional",Country
+Ireland,,IE,IRL,89,"Europe, regional",Country
+Israel,,IL,ISR,589,"Middle East, regional",Country
+Isle of man,,IM,IMN,89,"Europe, regional",Country
+British indian ocean territory,,IO,IOT,998,"Bilateral, unspecified",Country
+Iceland,,IS,ISL,89,"Europe, regional",Country
+Italy,,IT,ITA,89,"Europe, regional",Country
+Jersey,,JE,JEY,89,"Europe, regional",Country
+Japan,,JP,JPN,789,"Far East Asia, regional",Country
+"Korea, republic of",,KR,KOR,789,"Far East Asia, regional",Country
+Kuwait,,KW,KWT,589,"Middle East, regional",Country
+Cayman islands,,KY,CYM,389,"North & Central America, regional",Country
+Liechtenstein,,LI,LIE,89,"Europe, regional",Country
+Lithuania,,LT,LTU,89,"Europe, regional",Country
+Luxembourg,,LU,LUX,89,"Europe, regional",Country
+Latvia,,LV,LVA,89,"Europe, regional",Country
+Monaco,,MC,MCO,89,"Europe, regional",Country
+Saint martin (french part),,MF,MAF,389,"North & Central America, regional",Country
+Macao,,MO,MAC,789,"Far East Asia, regional",Country
+Northern mariana islands,,MP,MNP,889,"Oceania, regional",Country
+Martinique,,MQ,MTQ,389,"North & Central America, regional",Country
+Malta,,MT,MLT,89,"Europe, regional",Country
+New caledonia,,NC,NCL,889,"Oceania, regional",Country
+Norfolk island,,NF,NFK,889,"Oceania, regional",Country
+Netherlands,,NL,NLD,89,"Europe, regional",Country
+Norway,,NO,NOR,89,"Europe, regional",Country
+New zealand,,NZ,NZL,889,"Oceania, regional",Country
+French polynesia,,PF,PYF,889,"Oceania, regional",Country
+Poland,,PL,POL,89,"Europe, regional",Country
+Saint pierre and miquelon,,PM,SPM,389,"North & Central America, regional",Country
+Pitcairn,,PN,PCN,889,"Oceania, regional",Country
+Puerto rico,,PR,PRI,389,"North & Central America, regional",Country
+Portugal,,PT,PRT,89,"Europe, regional",Country
+Qatar,,QA,QAT,589,"Middle East, regional",Country
+Reunion,,RE,REU,289,"South of Sahara, regional",Country
+Romania,,RO,ROU,89,"Europe, regional",Country
+Russian federation,,RU,RUS,998,"Bilateral, unspecified",Country
+Saudi arabia,,SA,SAU,589,"Middle East, regional",Country
+Sweden,,SE,SWE,89,"Europe, regional",Country
+Singapore,,SG,SGP,789,"Far East Asia, regional",Country
+Slovenia,,SI,SVN,89,"Europe, regional",Country
+Svalbard and jan mayen,,SJ,SJM,89,"Europe, regional",Country
+Slovakia,,SK,SVK,89,"Europe, regional",Country
+San marino,,SM,SMR,89,"Europe, regional",Country
+South sudan,,SS,SSD,289,"South of Sahara, regional",Country
+Sint maarten (dutch part),,SX,SXM,389,"North & Central America, regional",Country
+Turks and caicos islands,,TC,TCA,389,"North & Central America, regional",Country
+French southern territories,,TF,ATF,998,"Bilateral, unspecified",Country
+"Taiwan, province of china",,TW,TWN,789,"Far East Asia, regional",Country
+United states minor outlying islands,,UM,UMI,998,"Bilateral, unspecified",Country
+United states,,US,USA,389,"North & Central America, regional",Country
+Holy see (vatican city state),,VA,VAT,89,"Europe, regional",Country
+"Virgin islands, british",,VG,VGB,389,"North & Central America, regional",Country
+"Virgin islands, u.s.",,VI,VIR,389,"North & Central America, regional",Country
+Kosovo,,XK,XKK,89,"Europe, regional",Country
+Mayotte,,YT,MYT,289,"South of Sahara, regional",Country
